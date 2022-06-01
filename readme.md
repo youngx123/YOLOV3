@@ -30,6 +30,7 @@ onnx 模型包括后处理阶段，直接对结果进行处理即可， 维度�
 
 参考项目：
 >https://github.com/bubbliiiing/yolo3-pytorch
+
 >https://github.com/Megvii-BaseDetection/YOLOX/blob/main/yolox/models/yolo_head.py
 
 
